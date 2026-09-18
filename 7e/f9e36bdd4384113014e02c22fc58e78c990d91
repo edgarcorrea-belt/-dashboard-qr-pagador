@@ -1,0 +1,19 @@
+.gitignore
+  s_40a6e40fd7ce5b::t_2b86a5e8f2424d 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7ef9e36bdd4384113014e02c22fc58e78c990d91",
+  "prompts": {},
+  "sessions": {
+    "s_40a6e40fd7ce5b": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "4a05efda-159f-4ba6-839e-877fd21e30b1",
+        "model": "unknown"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}

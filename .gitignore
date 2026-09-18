@@ -1,0 +1,6 @@
+# Ignorar todo por defecto para seguridad
+*
+
+# Permitir únicamente el index.html y este .gitignore
+!index.html
+!.gitignore

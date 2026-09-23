@@ -1,0 +1,38 @@
+index.html
+  s_22d4d2ad6f398d::t_97db97e967f987 387-393,395,397-411,417,613
+  s_d856e94f1a9d2e::t_8918eea01dda0a 299,360-368,474,646,717-718,722,726,752
+  s_cbc26ceebb070c::t_7e76898836b095 386,394,396,413,415-416,418,421,611-612
+  s_d856e94f1a9d2e::t_376b350dd57e33 5,10,20,295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "532e3d7d53e9741ca0c9bdecf78a0ffa2a1a6c36",
+  "prompts": {},
+  "sessions": {
+    "s_22d4d2ad6f398d": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "ad431107-3a3b-4e3f-8143-72457d0d85dc",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    },
+    "s_cbc26ceebb070c": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "a4dac509-77e8-4f16-ac58-bb8a8a6fc6a0",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    },
+    "s_d856e94f1a9d2e": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "a578898b-e1e1-4fb3-b2cb-d68d833786c6",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}

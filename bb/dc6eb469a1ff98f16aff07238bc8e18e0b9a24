@@ -1,0 +1,19 @@
+index.html
+  s_44c9a08bb49902::t_cd247ffcb1e34d 308
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bbdc6eb469a1ff98f16aff07238bc8e18e0b9a24",
+  "prompts": {},
+  "sessions": {
+    "s_44c9a08bb49902": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "905b2d2a-a347-4329-8165-cc2a70a195df",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}

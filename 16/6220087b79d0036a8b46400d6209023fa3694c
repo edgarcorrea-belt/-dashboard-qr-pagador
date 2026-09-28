@@ -1,0 +1,20 @@
+index.html
+  s_f30a8319c12303::t_07198112bc77ea 160,310
+  s_f30a8319c12303::t_b476476674d7e5 53,88,484-485,487-488,514-515,523,539-540,551
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "166220087b79d0036a8b46400d6209023fa3694c",
+  "prompts": {},
+  "sessions": {
+    "s_f30a8319c12303": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "9e97f706-3fc9-4a1c-a867-48f5562235eb",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}

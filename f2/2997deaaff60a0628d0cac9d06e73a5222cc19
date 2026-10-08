@@ -1,0 +1,14 @@
+index.html
+  h_0ad081f8a04530 12-29,42-44,61-69,158,169-170,184-191,325,337,364,421,479,490-491,525-526,557,619,665,748,768,838,864,871,875,883
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f22997deaaff60a0628d0cac9d06e73a5222cc19",
+  "prompts": {},
+  "humans": {
+    "h_0ad081f8a04530": {
+      "author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}

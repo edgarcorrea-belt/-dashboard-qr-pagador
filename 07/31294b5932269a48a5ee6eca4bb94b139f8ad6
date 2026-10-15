@@ -1,0 +1,14 @@
+index.html
+  h_0ad081f8a04530 968,1223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0731294b5932269a48a5ee6eca4bb94b139f8ad6",
+  "prompts": {},
+  "humans": {
+    "h_0ad081f8a04530": {
+      "author": "edgarcorrea-belt <edgar.correa@pedidosya.com>"
+    }
+  }
+}
